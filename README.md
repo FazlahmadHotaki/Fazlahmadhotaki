@@ -27,11 +27,10 @@
 
 ## 👋 About Me
 
-**I'm a passionate Frontend Developer from Afghanistan with 2 years of experience in HTML, CSS, and JavaScript.**   
-**Currently diving deep into React and preparing to master TypeScript.** 
+**I am an enthusiastic Frontend Developer based in Afghanistan, with 2 years of experience in HTML, CSS, a JavaScript.**   
+**Right now, I am exploring React and getting ready to become a TypeScript master.**
 
-I build responsive, accessible, and fast web apps. I enjoy turning ideas into polished UI and learning new tools every week.
-
+My goal is to create responsive, accessible, and optimized websites that feel like a breeze in the browser.
 ---
 
 ## 🎯 Current Focus
