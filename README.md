@@ -1,7 +1,6 @@
 <!-- README.md — Fazlahmad Hotaki -->
 <div align="center">
-  <h1>🚀 Fazlahmad Hotaki</h1>
-  <h3>Frontend Developer • React Enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0096c7&text=Fazlahmad%20Hotaki&section=header&reversal=true&textBg=false&fontColor=ee9b00&fontAlign=50&animation=twinkling&rotate=0&stroke=f8f9fa&strokeWidth=5&fontSize=60&desc=Front%20End%20Developer%20|%20JavaScript%20Enginner%20|%20React&descSize=18&descAlign=50&fontAlignY=35&descAlignY=54">
 
 <td width="35%" valign="center" align="center">
       <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="320" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
