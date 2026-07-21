@@ -38,17 +38,13 @@ My goal is to create responsive, accessible, and optimized websites that feel li
 
 ## 🛠️ Skills
 
-**Core**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+**Core , Frameworks & Tools**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,tailwind,git,github" alt="Tech Stack" />
+</p>
 
-**Frameworks & Tools**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+<br>
+<br>
 
 
 
@@ -127,7 +123,7 @@ My goal is to create responsive, accessible, and optimized websites that feel li
 <!-- CONTRIBUTION GRID -->
 <div align="center">
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazlahmadhotaki&theme=tokyonight" width="95%" />
+  <img src="https://raw.githubusercontent.com/M-Huzaifa-Awan/M-Huzaifa-Awan/main/profile-3d-contrib/profile-night-rainbow.svg" width="94%" alt="3D contribution graph" />
   <br>
 </div>
 
@@ -148,8 +144,16 @@ My goal is to create responsive, accessible, and optimized websites that feel li
 </div>
 
 <!-- DIVIDER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<div align="center"> 
+<img src="https://streak-stats.demolab.com?user=M-Huzaifa-Awan&hide_border=true&background=0D1117&ring=FF6B35&fire=FF8A4C&currStreakLabel=FF8A4C&sideLabels=C9D1D9&currStreakNum=F8F8F8&sideNums=F8F8F8&dates=8b949e" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Huzaifa-Awan&bg_color=0d1117&color=ff8a4c&line=ff6b35&point=f8f8f8&area=true&area_color=ff6b35&hide_border=true" width="94%" alt="activity graph" />
+
+## 🐍 The Hunt
+
+<img src="https://raw.githubusercontent.com/M-Huzaifa-Awan/M-Huzaifa-Awan/output/github-snake-dark.svg" width="94%" alt="contribution snake" />
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<br/><br/>
 </div>
 
 
