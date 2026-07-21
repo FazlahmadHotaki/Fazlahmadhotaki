@@ -142,21 +142,6 @@ const fazlahmad = {
   <br>
 </div>
 
-<!-- SPECIAL STATS -->
-<div align="center">
-  <br>
-  <table>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazlahmadhotaki&theme=tokyonight" width="100%" />
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fazlahmadhotaki&theme=tokyonight" width="100%" />
-      </td>
-    </tr>
-  </table>
-  <br>
-</div>
 
 <!-- DIVIDER -->
 <div align="center"> 
