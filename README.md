@@ -23,19 +23,34 @@
 </div>
 
 ---
+## 👨‍💻 About Me
 
-## 👋 About Me
+```javascript
+const fazlahmad = {
+  location: "Herat, Afghanistan 🇦🇫",
+  role: "Frontend Developer",
+  experience: "2+ Years",
+  currentlyLearning: ["React.js", "TypeScript"],
+  passions: [
+    "Building Responsive Websites",
+    "Creating Modern UI",
+    "Improving User Experience",
+    "Writing Clean Code"
+  ],
+  goal: "Develop fast, accessible, and scalable web applications."
+};
+```
 
-**I am an enthusiastic Frontend Developer based in Afghanistan, with 2 years of experience in HTML, CSS, a JavaScript.**   
-**Right now, I am exploring React and getting ready to become a TypeScript master.**
+> 💡 *I enjoy transforming ideas into modern, fast, and responsive web experiences.*
 
-My goal is to create responsive, accessible, and optimized websites that feel like a breeze in the browser.
 ---
 
-## 🎯 Current Focus
+## 🚀 Current Focus
 
-- 🔭 **Working on:** [Type Speed Project](https://fazlahmadhotaki.github.io/Type-Test-Project/)  
 
+
+> 💡 * - ⚛️ React.js <br> - 📘 TypeScript  🔗 Type Speed Project: https://fazlahmadhotaki.github.io/Type-Test-Project/ *
+-
 ## 🛠️ Skills
 
 **Core , Frameworks & Tools**  
