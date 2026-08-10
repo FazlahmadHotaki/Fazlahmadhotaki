@@ -144,6 +144,13 @@ const fazlahmad = {
     alt="3D contribution graph"
   />
   <br>
+	
+### One important thing
+
+Don't add this:
+
+```markdown
+./profile-3d-contrib/profile-night-rainbow.svg
 </div>
 
 <!-- DIVIDER -->
