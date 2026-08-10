@@ -137,11 +137,7 @@ const fazlahmad = {
 <!-- CONTRIBUTION GRID -->
 <div align="center">
   <br>
-  <img
-    src="https://raw.githubusercontent.com/FazlahmadHotaki/FazlahmadHotaki/main/profile-3d-contrib/profile-night-rainbow.svg"
-    width="94%"
-    alt="3D contribution graph"
-  />
+  <img src="https://raw.githubusercontent.com/FazlahmadHotaki/FazlahmadHotaki/main/profile-3d-contrib/profile-night-rainbow.svg" width="94%" alt="3D contribution graph" />
   <br>
 </div>
 
