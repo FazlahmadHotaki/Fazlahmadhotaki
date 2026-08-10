@@ -2,8 +2,8 @@ name: Generate 3D contribution graph
 
 on:
   schedule:
-    - cron: "0 1 * * *" # daily
-  workflow_dispatch: # manual trigger
+    - cron: "0 1 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -19,7 +19,7 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: FazlahmadHotaki  # ← YOUR USERNAME
+          USERNAME: FazlahmadHotaki
 
       - name: Commit and push
         run: |
