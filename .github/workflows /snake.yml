@@ -12,11 +12,12 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
-          github_user_name: M-Huzaifa-Awan
+          github_user_name: FazlahmadHotaki
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#ff6b35
