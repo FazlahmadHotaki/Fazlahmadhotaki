@@ -56,22 +56,13 @@ const fazlahmad = {
 **Core , Frameworks & Tools**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,tailwind,git,github" alt="Tech Stack" />
+	<a href="https://www.gitkraken.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/gitkraken" width="48" height="48" alt="GitKraken"/>
+</a>
 </p>
 
 <br>
 <br>
-
-
-
-
-
-
-
-
-
-
-      
-
 
 
 
