@@ -151,6 +151,11 @@ alt="GitHub Streak"
 
 <br><br>
 
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=FazlahmadHotaki&bg_color=0d1117&color=ff8a4c&line=ff6b35&point=f8f8f8&area=true&area_color=ff6b35&hide_border=true" 
+width="94%" 
+alt="GitHub Activity Graph" 
+/>
 
 </div>
 
