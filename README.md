@@ -151,20 +151,7 @@ alt="GitHub Streak"
 
 <br><br>
 
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=FazlahmadHotaki&bg_color=0d1117&color=ff8a4c&line=ff6b35&point=f8f8f8&area=true&area_color=ff6b35&hide_border=true" 
-width="94%" 
-alt="GitHub Activity Graph" 
-/>
 
-</div>
-## 🐍 The Hunt
-
-<img src="https://raw.githubusercontent.com/FazlahmadHotaki/FazlahmadHotaki/profile-3d-contrib/profile-night-rainbow.svg" width="94%" alt="contribution snake" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-<br/><br/>
 </div>
 
 
