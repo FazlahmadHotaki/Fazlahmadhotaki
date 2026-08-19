@@ -63,56 +63,7 @@ const fazlahmad = {
 
 
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 15px; background: #0d1117; border-radius: 15px; border: 2px solid #4CAF50;">
-        <img src="https://img.icons8.com/color/48/000000/globe--v1.png" width="35"/>
-        <br>
-        <span style="color: #e0e0e0;">🌍 Based in</span>
-        <br>
-        <strong style="color: #4CAF50; font-size: 18px;">Herat, Afghanistan</strong>
-      </td>
-      <td align="center" style="padding: 15px; background: #0d1117; border-radius: 15px; border: 2px solid #2196F3;">
-        <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" width="35"/>
-        <br>
-        <span style="color: #e0e0e0;">🎓 Education</span>
-        <br>
-        <strong style="color: #2196F3; font-size: 18px;">Computer Science Student</strong>
-      </td>
-      <td align="center" style="padding: 15px; background: #0d1117; border-radius: 15px; border: 2px solid #FF6B00;">
-        <img src="https://img.icons8.com/color/48/000000/code.png" width="35"/>
-        <br>
-        <span style="color: #e0e0e0;">💻 Role</span>
-        <br>
-        <strong style="color: #FF6B00; font-size: 18px;">Frontend Developer</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 15px; background: #0d1117; border-radius: 15px; border: 2px solid #9C27B0;">
-        <img src="https://img.icons8.com/color/48/000000/react-native.png" width="35"/>
-        <br>
-        <span style="color: #e0e0e0;">⚛️ Currently</span>
-        <br>
-        <strong style="color: #9C27B0; font-size: 18px;">Learning React.js</strong>
-      </td>
-      <td align="center" style="padding: 15px; background: #0d1117; border-radius: 15px; border: 2px solid #FF4081;">
-        <img src="https://img.icons8.com/color/48/000000/target.png" width="35"/>
-        <br>
-        <span style="color: #e0e0e0;">🎯 Goal</span>
-        <br>
-        <strong style="color: #FF4081; font-size: 16px;">Full-Stack JavaScript Developer</strong>
-      </td>
-      <td align="center" style="padding: 15px; background: #0d1117; border-radius: 15px; border: 2px solid #FFC107;">
-        <img src="https://img.icons8.com/color/48/000000/coffee.png" width="35"/>
-        <br>
-        <span style="color: #e0e0e0;">☕ Fuel</span>
-        <br>
-        <strong style="color: #FFC107; font-size: 18px;">Curiosity & Consistency</strong>
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 
 
@@ -137,26 +88,41 @@ const fazlahmad = {
 
 <!-- CONTRIBUTION GRID -->
 <div align="center">
-  <br>
-  <img src="https://raw.githubusercontent.com/FazlahmadHotaki/FazlahmadHotaki/main/profile-3d-contrib/profile-night-rainbow.svg" width="94%" alt="3D contribution graph" />
-  <br>
+ <div align="center">
+
+<h2>⚡ GitHub Activity</h2>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=FazlahmadHotaki&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
+  alt="Fazlahmad Hotaki GitHub Activity Graph"
+/>
+
+</div>
 </div>
 
 <!-- DIVIDER -->
 <div align="center"> 
 
-<img 
-src="https://streak-stats.demolab.com?user=FazlahmadHotaki&hide_border=true&background=0D1117&ring=FF6B35&fire=FF8A4C&currStreakLabel=FF8A4C&sideLabels=C9D1D9&currStreakNum=F8F8F8&sideNums=F8F8F8&dates=8b949e" 
-alt="GitHub Streak" 
-/>
+
 
 <br><br>
 
+## 📊 Contribution Activity
+
+<div align="center">
+
+<div style="background: rgba(13,17,23,0.8); backdrop-filter: blur(10px); padding: 25px; border-radius: 20px; border: 2px solid rgba(88,166,255,0.3); box-shadow: 0 0 40px rgba(88,166,255,0.1);">
+
 <img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=FazlahmadHotaki&bg_color=0d1117&color=ff8a4c&line=ff6b35&point=f8f8f8&area=true&area_color=ff6b35&hide_border=true" 
-width="94%" 
-alt="GitHub Activity Graph" 
+  src="https://ghchart.rshah.org/58A6FF/FazlahmadHotaki"
+  alt="Fazlahmad Hotaki GitHub Contribution Activity"
+  width="100%"
+  style="border-radius: 12px; filter: drop-shadow(0 0 20px rgba(88,166,255,0.2));"
 />
+
+</div>
+
+</div>
 
 </div>
 
