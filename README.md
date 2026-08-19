@@ -11,11 +11,20 @@
 
       
   <!-- Profile badges -->
-  <p>
-    <img src="https://img.shields.io/badge/Location-Afghanistan-2E8B57?style=flat-square" alt="location" />
-    <img src="https://img.shields.io/badge/Status-Freelance-blueviolet?style=flat-square" alt="status" />
-    <img src="https://img.shields.io/badge/Experience-2%20Years-yellow?style=flat-square" alt="experience" />
-  </p>
+ <div align="center">
+
+<p>
+  <img src="https://cdn.simpleicons.org/googlemaps/58A6FF" width="18">
+  <b> Afghanistan</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/freelancer/58A6FF" width="18">
+  <b> Freelance Developer</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/clockify/58A6FF" width="18">
+  <b> 2+ Years Experience</b>
+</p>
+
+</div>
 
 
   <!-- Typing line -->
